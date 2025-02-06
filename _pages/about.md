@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "about me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-# Dr. Wu Bo
+# Dr. Bo Wu (吴博)
 
 ## Academic Background
 - **Ph.D.** Computer Application Technology, Renmin University of China.   
