@@ -11,7 +11,7 @@ redirect_from:
 # Dr. Wu Bo
 
 ## Academic Background
-- **Ph.D.** in Computer application technology, Renmin University of China.   
+- **Ph.D.** Computer Application Technology, Renmin University of China.   
 - **Research Interests:** Graph neural network algorithms and their applications.
 
 ## Current Position
