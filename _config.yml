@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Bo Wu (吴博)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Bo Wu"
+  pronouns         : "he/her"  
+  bio              : "Dr. Bo Wu is an assistant researcher at Xiangjiang Laboratory, specializing in graph neural networks, with a Ph.D. from Renmin University of China."
+  location         : "Changsha, Hunan, China"
+  employer         : "Xiangjiang Lab"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "bowuchn@163.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
